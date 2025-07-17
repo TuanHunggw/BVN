@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C# folder\B3\BVN1\BVN1\bin\Debug\BVN1.exe.config
+C:\Users\Admin\Desktop\C# folder\B3\BVN1\BVN1\bin\Debug\BVN1.exe
+C:\Users\Admin\Desktop\C# folder\B3\BVN1\BVN1\bin\Debug\BVN1.pdb
+C:\Users\Admin\Desktop\C# folder\B3\BVN1\BVN1\obj\Debug\BVN1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# folder\B3\BVN1\BVN1\obj\Debug\BVN1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# folder\B3\BVN1\BVN1\obj\Debug\BVN1.exe
+C:\Users\Admin\Desktop\C# folder\B3\BVN1\BVN1\obj\Debug\BVN1.pdb
+C:\Users\Admin\Desktop\C# folder\B3\BVN1\BVN1\obj\Debug\BVN1.exe.config
